@@ -1,5 +1,6 @@
 # Overview 
-This script will be **very helpful** if you want to **scan large number of IP addresses for a specific port** like (port 3306 which is the default port for MySQL)
+- This script will be **very helpful** if you want to **scan large number of IP addresses for a specific port** like (port 3306 which is the default port for MySQL)
+- The script uses `nmap` to do the port scanning process so you should have it installed to use the script.
 
 ***Example:***\
 I want to **scan port 80 in 100 IP** address.
