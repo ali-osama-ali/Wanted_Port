@@ -9,7 +9,7 @@ I want to **scan port 80 in 100 IP** address.
 Using this script is **really simple** , you just need to do the following steps : 
 1. clone this repo to your local machine using this command 
     ```bash
-    git clone https://github.com/SalmaAlassal/Linux-Tasks/Wanted_Port.git
+    git clone https://github.com/ali-osama-ali/Wanted_Port.git
     ```
 
 2. Put the IPs that you are **allowed** to scan in the `ip_list` file \
